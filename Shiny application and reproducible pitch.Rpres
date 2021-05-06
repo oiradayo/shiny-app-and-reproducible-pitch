@@ -1,0 +1,34 @@
+Shiny application and reproducible pitch
+========================================================
+author: Daisuke Ohnuki
+date: May 6, 2021
+autosize: true
+
+Instructions
+========================================================
+This is a course project of Developing Data Products, as a part of the Coursera Data Science Specialization.
+
+Instructions:
+
+1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
+2. Deploy the application on Rstudio's shiny server
+3. Share the application link by pasting it into the provided text box
+4. Share your server.R and ui.R code on github
+
+Fake Geyser
+========================================================
+It includes a slide botton.
+You can modify the bin and the plot.
+
+
+Application
+========================================================
+The source codes are available at following;
+https://github.com/oiradayo/shiny-app-and-reproducible-pitch
+
+The application is available: https://oiradayo.shinyapps.io/Shiny_application_and_reproducible_pitch/
+
+Source
+========================================================
+server.R, ui.R and html are included on the following website;
+https://github.com/oiradayo/shiny-app-and-reproducible-pitch
